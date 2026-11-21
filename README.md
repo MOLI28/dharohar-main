@@ -1,6 +1,6 @@
 # Dharohar (धरोहर): Source-Grounded Indian Heritage Platform 🏛️📜
 
-🌐 **[Explore the Live Prototype](https://nidhitiwari5.github.io/dharohar/)** | 🏆 **Top 5 — Internal Smart India Hackathon (SIH) 2026 (Problem Statement S7)**
+🌐 **[Explore the Live Prototype](https://moli28.github.io/dharohar-main/)** | 🏆 **Top 5 — Internal Smart India Hackathon (SIH) 2026 (Problem Statement S7)**
 
 ![Python](https://img.shields.io/badge/Python-3.11%E2%80%933.13-3776AB?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
@@ -72,7 +72,7 @@ The codebase is structured for modularity, graceful degradation, and low-overhea
 ## 🖥 System Interface & Interactive Modules
 Dharohar transforms cultural reading into an interactive spatial, temporal, and auditory exploration workflow.
 
-> *(Add your interface preview image here, e.g., `![Dharohar Platform Preview](./docs/dashboard.png)`)*
+![Dharohar Platform Preview](./docs/dashboard.png)
 
 ### 📊 Core UI Modules
 - **Discovery Hero & Smart Search (`Hero.jsx`, `SearchResults.jsx`):** Unified entry point combining natural search, category filters (*Monuments & Places*, *Temples*, *Crafts*, *Stories & Traditions*, *Music & Dance*), *Explore Near Me*, and *Ask Viraasat*.
