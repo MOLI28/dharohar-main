@@ -234,8 +234,8 @@ Dharohar runs as a decoupled FastAPI backend and React/Vite frontend. Open two c
 
 ### Step 1: Clone the Repository
 ```powershell
-git clone [https://github.com/MOLI28/dharohar.git](https://github.com/MOLI28/dharohar.git)
-cd dharohar
+git clone [https://github.com/MOLI28/dharohar-main.git](https://github.com/MOLI28/dharohar-main.git)
+cd dharohar-main
 ```
 
 ### Step 2: Backend Environment Setup (FastAPI + SQLAlchemy)
